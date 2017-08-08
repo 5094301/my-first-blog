@@ -25,7 +25,7 @@ SECRET_KEY = '9qi!&z5@t2un&z*=9#wt0i3vxdgi*5hb&p(5whunz91x)*c!ui'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'dimapetarda.pythonanywhere.com']
 
 
 # Application definition
